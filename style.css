@@ -1,0 +1,27 @@
+
+
+.meme_hauteur {
+  height: 720px;
+  width: auto;
+}
+
+
+.cover {
+  width: 750px;
+  max-width: 750px;
+  min-width: 1px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+h1 {
+color: white;
+
+}
+
+
+
