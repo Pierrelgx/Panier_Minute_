@@ -7,9 +7,8 @@
 
 
 .cover {
-  width: 750px;
-  max-width: 750px;
-  min-width: 1px;
+  width: 70%;
+  max-width: 790px;
   display: flex;
   margin-left: auto;
   margin-right: auto;
